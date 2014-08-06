@@ -2,14 +2,19 @@
   "name" : "otto-example-routes",
   "version" : "0.0.0",
   "repository" : "https://github.com/ottojs/otto-example-routes.git",
-  "dependencies" : {},
+  "dependencies" : {
+    "otto-request"            : "0.0.2",
+    "otto-response"           : "0.0.3",
+    "otto-example-controller" : "0.0.1"
+  },
   "devDependencies" : {
     "jshint"    : "2.5.2",
     "mocha"     : "1.21.3",
     "should"    : "4.0.4",
     "supertest" : "0.13.0",
     "sinon"     : "1.10.3",
-    "istanbul"  : "0.3.0"
+    "istanbul"  : "0.3.0",
+    "otto"      : "0.0.4"
   },
   "scripts" : {
     "test" : "make test"
