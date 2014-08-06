@@ -1,6 +1,6 @@
 {
   "name" : "otto-example-routes",
-  "version" : "0.0.0",
+  "version" : "0.0.1",
   "repository" : "https://github.com/ottojs/otto-example-routes.git",
   "dependencies" : {
     "otto-request"            : "0.0.2",
