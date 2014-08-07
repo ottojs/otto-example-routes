@@ -2,6 +2,7 @@
   "name" : "otto-example-routes",
   "version" : "0.0.1",
   "repository" : "https://github.com/ottojs/otto-example-routes.git",
+  "main" : "./lib/index.js",
   "dependencies" : {
     "otto-request"            : "0.0.2",
     "otto-response"           : "0.0.3",
